@@ -1,2 +1,5 @@
-# digital-diary-frontend-mernstack
-An application called Digital diary with CRUD operations using Mern Stack
+<<<<<<< HEAD
+Your changes in the current branch
+=======
+Changes from the commit being rebased
+>>>>>>> CommitHash
